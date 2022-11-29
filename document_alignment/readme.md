@@ -46,6 +46,7 @@ python3 cerebrex_code_A/main.py \
 ```
 
 ## Citation
+```python
 @article{fernando2022exploiting,
   title={Exploiting bilingual lexicons to improve multilingual embedding-based document and sentence alignment for low-resource languages},
   author={Fernando, Aloka and Ranathunga, Surangika and Sachintha, Dilan and Piyarathna, Lakmali and Rajitha, Charith},
@@ -54,4 +55,4 @@ python3 cerebrex_code_A/main.py \
   year={2022},
   publisher={Springer}
 }
-
+```
