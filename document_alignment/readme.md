@@ -3,7 +3,7 @@ This is the code for document alignmnet.
 
 Download the data from huggingface datasets [NLPC-UOM/document_alignment_dataset-Sinhala-Tamil-English](https://huggingface.co/datasets/NLPC-UOM/document_alignment_dataset-Sinhala-Tamil-English)
 
-Use da_generate_embeddings_v2.py to create embeddings for each documnet.Then the embedding files should be created under the folder structure /news_source/lang/year/month/day/ 
+Use [da_generate_embeddings_v2.py](https://github.com/aloka-fernando/da_and_sa_parallel_corpus_mining/blob/master/document_alignment/da_generate_embeddings_v2.py) to create embeddings for each documnet.Then the embedding files should be created under the folder structure /news_source/lang/year/month/day/ 
 eg: 
 ```python
 /news/en/2021/Apr/02/ 
@@ -15,8 +15,8 @@ Afterwards you can run the document alignment task.
 ```python
 #embedding filepaths
 newsSource="hiru"
-embeddingPathA="/userdirs/aloka/p2_parallel_corpus_mining/embeddings_laser/hiru/en/"
-embeddingPathB="/userdirs/aloka/p2_parallel_corpus_mining/embeddings_laser/hiru/si/"
+embeddingPathA="./p2_parallel_corpus_mining/embeddings_laser/hiru/en/"
+embeddingPathB="./p2_parallel_corpus_mining/embeddings_laser/hiru/si/"
 
 #textfiles in respective languages
 readbleDataPathA="/userdirs/aloka/p2_parallel_corpus_mining/textfiles/hiru/en/" 
