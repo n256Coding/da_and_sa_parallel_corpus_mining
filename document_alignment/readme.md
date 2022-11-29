@@ -1,5 +1,6 @@
 #Document Alignment
 
+```python
 #embedding filepaths
 newsSource="hiru"
 embeddingPathA="/userdirs/aloka/p2_parallel_corpus_mining/embeddings_laser/hiru/en/"
@@ -31,3 +32,4 @@ python3 cerebrex_code_A/main.py \
 	$option \
 	$dimension \
 	$metric
+```
