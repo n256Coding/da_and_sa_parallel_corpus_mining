@@ -27,7 +27,7 @@ digits_spChars={'1', '2','3','4','5','6','7','8','9','0','[',']','{','}','(',')'
 
 #json file directory
 root_path='/content/data/json_files'
-sources=['hiru', 'newsfirst', 'itn'] #
+sources=['hiru', 'newsfirst', 'itn', 'army'] #
 langs=['english', 'sinhala', 'tamil']
 
 #textfile path
