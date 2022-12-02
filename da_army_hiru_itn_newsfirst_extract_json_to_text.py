@@ -13,6 +13,7 @@ import json
 import os
 import nltk
 from nltk.tokenize import sent_tokenize
+import traceback
 
 #nltk.download('punkt')
 
@@ -217,8 +218,11 @@ for source in sources:
                 fileOut.close()
                 file_count+=1
 
-            except:
+            except Exception as e:
+                traceback.print_exc()
                 print('ERROR: {}/{}'.format(json_file_path, json_file)) 
+                break
+                
         #print('{} files : {}'.format(lang, file_count))
         summary_file_counts.append('{}-{} [json/txt][error files] : {}/{}[{}]'.format(source, lang, len(json_files), file_count, (len(json_files)-file_count)))
 
