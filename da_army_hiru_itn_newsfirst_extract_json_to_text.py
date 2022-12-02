@@ -15,7 +15,7 @@ import nltk
 from nltk.tokenize import sent_tokenize
 import traceback
 
-#nltk.download('punkt')
+nltk.download('punkt')
 
 months_tamil=['ஜனவரி','பிப்ரவரி','மார்ச்','ஏப்ரல்','மே','ஜூன்','ஜூலை','ஆகஸ்ட்','செப்டம்பர்','அக்டோபர்','நவம்பர்','டிசம்பர்']
 months_english=['January','February','March','April','May','June','July','August','September','October','November','December']
