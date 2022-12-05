@@ -41,6 +41,8 @@ def main():
     global option
     global dim
     global metric
+    
+    print('sys_args', sys.argv)
 
     embeddingPathA = sys.argv[1]
     embeddingPathB = sys.argv[2]
