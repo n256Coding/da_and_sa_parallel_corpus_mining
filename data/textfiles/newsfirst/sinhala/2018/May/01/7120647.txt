@@ -1,0 +1,3 @@
+පාර්ලිමේන්තු මන්ත්‍රීනි හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය මීට සුළු මොහොතකට පෙර ප්‍රකාශ කළේ, පසුපෙළ මන්ත්‍රීවරුන් අපෙක්ෂා කළ වෙනස්කම් සිදුව නොමැති බවයි.
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); හිරුණිකා කලකිරීමෙන්….
+"අගමැතිගෙ කිසි දේකට යන්නෙ නැහැ… මෙහෙම ගියොත් පක්ෂෙ ඇතුළෙම පිපිරීම සිදු වෙනවා" – හිරුණිකා ප්‍රේමචන්ද්‍ර #lka #News1st #UNP #PM #RanilW #HirunikaPremachandra Posted by Newsfirst.lk on Tuesday, May 1, 2018

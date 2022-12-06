@@ -1,0 +1,5 @@
+ඉදිරි මහ මැතිවරණයට තරග කරන බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; We Must Contest – Former President Mahinda Rajapaksaඅපි මහ මැතිවරණයට තරග කළ යුතුයි – හිටපු ජනාධිපති මහින්ද රාජපක්ෂ Read More: English – http://goo.gl/C3EXJASinhala – http://goo.gl/amoAV0 Posted by Newsfirst.lk on Wednesday, July 1, 2015 ඔහු මේ බව පැවසුවේ, තංගල්ල, මැදමුලනේදී අද පෙරවරුවේ ජනතාව අමතමිනි.
+තමන් ජනතා ඉල්ලීම ප්‍රතික්ෂේප නොකරන බව හිටපු ජනාධිපතිවරයා එහිදී සඳහන් කර තිබේ.
+ඔහු පැවුසවේ, 2005 වසරේදී එක්වූ ආකාරයෙන් තමන් වටා එක්වන ලෙස සෙසු පක්ෂවල සාමාජිකයින්ට ද ආරාධනා කරන බව ය.

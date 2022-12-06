@@ -1,0 +1,7 @@
+කුලියාපිටිය, ඇපලාදෙණිය ප්‍රදේශයේදී කඩුවකින් ඇන පුද්ගලයෙකු ඝාතනය කර තිබේ.
+පොලීසිය පැවසුවේ, ඊයේ රාත්‍රී 10.30ට පමණ අදාළ ඝාතනය සිදුව ඇති බව ය.
+එලෙස ඝාතනයට ලක්ව ඇත්තේ, කුලියාපිටිය, වැලිආරවත්ත ප්‍රදේශයේ පදිංචි 29 හැවිරිදි පුද්ගලයෙකි.
+පෞද්ගලික ආරවුලක් විසඳීමට යාමේදී එම ඝාතනය සිදුව ඇති බව පොලීසිය සඳහන් කළේ ය.
+ඊට අදාළ සැකකරු ප්‍රදේශයෙන් පලා ගොස් ඇති බව ත් ඔහු අත්අඩංගුවට ගැනීමට පරීක්ෂණ ආරම්භ කර ඇති බව ත් පොලීසිය සඳහන් කළේ ය.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; කුලියාපිටියේ පන්සලක් අසලදී කඩුවකින් ඇන පුද්ගලයෙකු ඝාතනය කෙරේRead more: http://goo.gl/GSU2Th Posted by Newsfirst.lk on Friday, April 3, 2015

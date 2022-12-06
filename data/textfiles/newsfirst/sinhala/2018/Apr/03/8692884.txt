@@ -1,0 +1,7 @@
+COLOMBO (News 1st) : විශ්වාසභංගයේදී අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ මහතාට එරෙහිව ඡන්දය ලබාදීම සඳහා වන ශ්‍රී ලංකා නිදහස් පක්ෂයේ ස්ථාවරය අග්‍රාමාත්‍යවරයාට දැනුම් දුන් බව අමාත්‍ය එස්.බී.
+දිසානායක පවසයි.
+අමාත්‍යවරයා කියා සිටියේ කැබිනට් රැස්වීම අවසානයේ මේ පිළිබඳව අග්‍රාමාත්‍යවරාට දැනුම් දුන් බවයි.
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); "අග්‍රාමාත්‍යවරයා සිය තනතුරෙන් ඉවත් විය යුතුයි" "අපි අග්‍රාමාත්‍යවරයාට දැනුම් දුන්නා එතුමා සිය තනතුරෙන් ඉවත් විය යුතුයි කියලා."
+– අමාත්‍ය එස්.
+බී.
+දිසානායක#lka #News1st #SLPolitics Posted by Newsfirst.lk on Monday, April 2, 2018

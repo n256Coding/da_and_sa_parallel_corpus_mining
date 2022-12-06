@@ -1,0 +1,4 @@
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා නැවත ක්‍රියාකාරී දේශපාලනයට ගෙන ඒමේ ක්‍රියාවලිය පිටුපස එක්සත් ජාතික පක්ෂය සිටින බව අමාත්‍ය රාජිත සේනාරත්න මහතා පවසයි.
+ඔහු මේ බව ප්‍රකාශකලේ අද පැවැති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී ය.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; මහින්ද පිටිපස්සේ ඉන්නේ එක්සත් ජාතික පක්ෂය – ඇමති රාජිත සේනාරත්න කියයි Posted by Newsfirst.lk on Friday, April 3, 2015

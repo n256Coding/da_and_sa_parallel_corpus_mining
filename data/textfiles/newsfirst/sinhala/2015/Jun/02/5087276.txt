@@ -1,0 +1,4 @@
+වර්තමාන අධ්‍යාපන ක්‍රමය හා රැකියා උත්පාදනය අතර විශාල පරතරයක් පවතින බව උසස් අධ්‍යාපන අමාත්‍ය ආචාර්ය සරත් අමුණුගම මහතා පවසයි.
+මහනුවර විවෘත විශ්වවිද්‍යාලයේ නව විභාග ශාලාව හා පරිපාලන ගොඩනැගිල්ල විවෘත කිරීම වෙනුවෙන් එම උත්සවය සංවිධාන කර තිබුණේ, ඊයේ පස්වරුවේදී ය.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; “වත්මන් අධ්‍යාපන ක්‍රමය හා රැකියා උත්පාදනය අතර විශාල පරතරයක් පවතිනවා” – ආචාර්ය සරත් අමුණුගම Posted by Newsfirst.lk on Monday, June 1, 2015

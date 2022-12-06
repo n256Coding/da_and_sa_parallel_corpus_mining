@@ -1,0 +1,4 @@
+ජපානයේ යමගුචිහි පැවැත්වෙන 23 වන ලෝක බාලදක්ෂ ජම්බෝරියේ අද විවිධ රටවල සංස්කෘතින් අධ්‍යනය සඳහා බාල දක්ෂයින්ට අවස්ථාව සලසා තිබිණ.
+අද ජම්බෝරියේ සිව් වන දිනය වන අතර එය අවසන් වීමට නියමිතව ඇත්තේ ලබන 07 වනදා ය.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; ජපානයේ යමගුචිහි පැවැත්වෙන ලෝක බාලදක්ෂ ජම්බෝරියේදී ශ්‍රී ලංකා ප්‍රදර්ශන කුටියට සුවිශේෂි ප්‍රතිචාරයක් Posted by Newsfirst.lk on Saturday, August 1, 2015

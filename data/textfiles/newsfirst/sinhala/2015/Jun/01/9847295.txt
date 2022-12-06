@@ -1,0 +1,6 @@
+හිටපු ජනපති ආර්යා ශිරන්ති රාජපක්ෂ මහත්මියගෙන් පොලිස් මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය අද පෙරවරුවේ ප්‍රකාශයක් සටහන් කරගෙන තිබේ.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; බැංකු ගිණුමක් සම්බන්ධයෙන් පොලිස් මූල්‍ය අපරාධ කොට්ඨාසයට ප්‍රකාශයක් ලබා දීම සඳහා ශිරන්ති රාජපක්ෂ පිටව ගිය අයුරු Posted by Newsfirst.lk on Monday, June 1, 2015 පොලිස් මාධ්‍ය ප්‍රකාශක සහකාර පොලිස් අධිකාරී රුවන් ගුණසේකර මහතා සඳහන් කළේ, එක්තරා බැංකු ගිණුමක් සම්බන්ධයෙන් ඇයගෙන් එම ප්‍රකාශය සටහන් කරගත් බව ය.
+ඇයගෙන් පැය දෙකහමාරක පමණ කාලයක් ප්‍රශ්න කර තිබේ.
+කෙසේ වෙතත්, එම ප්‍රකාශය සටහන් කර ගැනීම පොලිස් මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසයේදී සිදු නොවූ බව වාර්තා වේ.
+PHOTO: Facebook

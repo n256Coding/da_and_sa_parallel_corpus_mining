@@ -1,0 +1,5 @@
+මොණරාගල ප්‍රදේශයේ මත් ද්‍රව්‍ය නිවාරණ වැඩසටහනට සහභාගී වී සිටින නිව්ස්ෆස්ට් කණ්ඩායමට තණමල්විල ප්‍රදේශයේදී මව්පියන් මග හැරුණු දැරියක හමු විය.
+ඒ පිළිබඳව නිව්ස්ෆස්ට් ප්‍රවෘත්ති විකාශ හරහා කළ දැනුම් දීම්වලට අනුව ඇය සිය මව්පියන් වෙත භාර දීමට හැකියාව ලැබිණි.
+අප වාර්තාකරුවන් පැවසුවේ, අදාළ දැරිය තණමල්විල පොලීසියට භාර දීමට කටයුතු කළ බව ය.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; මත් ද්‍රව්‍ය නිවාරණ වැඩසටහනට සහභාගී වී සිටින නිව්ස්ෆස්ට් කණ්ඩායමට තණමල්විල ප්‍රදේශයේදී මව්පියන් මග හැරුණු දැරියක හමු වේ Posted by Newsfirst.lk on Saturday, August 1, 2015

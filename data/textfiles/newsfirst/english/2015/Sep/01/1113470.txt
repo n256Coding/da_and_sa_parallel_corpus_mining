@@ -1,0 +1,6 @@
+The Sri Lanka Pakistan Trade and Investment Forum was held in Colombo on the evening Monday August 31.
+Speaking at the event Upul Jayasuriya, Chairman of the BOI,  elaborated on the government’s decision on unsolicited offers.
+The event was graced by the Pakistan;s High Commissioner to Sri Lanka , retired Major General Syed Shajeek Hussain.
+Chairman of the BOI Upul Jayasuriya said that the “honeymoon period” which was there for the unsolicited offers with regard to road development is now over and “all good things have to come to an end.” He added that we have to learn from the past and put the future right.
+Mementos were exchanged between the Sri Lankan and Pakistani delegations.
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); SL-Pakistan Trade and Investment Forum held in ColomboFull story: http://goo.gl/HxCQ7X Posted by Newsfirst.lk on Tuesday, September 1, 2015

@@ -48,7 +48,7 @@ def write_file(data,file_path):
 
 
 #create laser embeddings
-root = '/userdirs/aloka/web_crawler/crawler/crawler/spiders/data'
+root = '/content/data'
 encoders = ["labse"] # use : 'laser','labse','xlmr'
 
 site_list = ['army', 'hiru', "newsfirst", 'itn'] 

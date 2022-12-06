@@ -1,0 +1,4 @@
+එම සමුළුව සංවිධානය කරනු ලබන්නේ කොළඹ කොටස් වෙළෙඳපොළ මගිනි.
+ශ්‍රී ලංකාවේ ආයෝජනය ප්‍රවර්ධනය අරමුණු කර ගනිමින් හෙට පැවත්වෙන සමුළුවේදී අග්‍රාමාත්‍යවරයා දේශනයක් පැවැත්වීමට නියමිත බව අග්‍රාමාත්‍ය කාර්යාලය ප්‍රකාශ කළේ ය.
+සිංගප්පූරුවේ ෆෝ සීසන්ස් හෝටලයේ පැවැත්වීමට නියමිත සමුළුවට කලාපයේ ප්‍රමුඛ පෙළේ අයෝජකයින් රැසක් සහභාගි වීමට නියමිත වේ.
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = 'https://connect.facebook.net/mr_IN/sdk.js#xfbml=1&version=v2.12';  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); "ඉන්වෙස්ට් ශ්‍රී ලංකා" සමුළුව සඳහා අගමැති අද සිංගප්පූරුවට "ඉන්වෙස්ට් ශ්‍රී ලංකා" සමුළුව සඳහා අගමැති අද සිංගප්පූරුවට… #lka #News1st #PM #SingaporeRead More:- https://goo.gl/am4CGw Posted by Newsfirst.lk on 28 फेब्रुवारी 2018

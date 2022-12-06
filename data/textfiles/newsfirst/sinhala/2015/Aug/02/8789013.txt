@@ -1,0 +1,4 @@
+කුරුණෑගල – කුලියාපිටිය මාර්ගයේ කිතලාව ප්‍රදේශයේදි අද පස්වරුවේ සිදු වු රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; කාන්තාවකට සහ පුරුෂයෙකුට ජීවිත අහිමි කළ කුලියාපිටියේ මාරක අනතුර Posted by Newsfirst.lk on Sunday, August 2, 2015 අනතුර සිදුව ඇත්තේ, එක ම දිශාවට ධාවනය වූ මෝටර් රථ දෙකක් එකිනෙක ගැටීමෙනි.
+එක් මෝටර් රථයක පිටුපස අසුනේ සිටි 32 හැවිරිදි කාන්තාවකට සහ 69 හැවිරිදි පුරුෂයෙකුට අනතුරින් ජීවිත අහිමි වී තිබේ.

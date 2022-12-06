@@ -1,0 +1,3 @@
+පාර්ලිමේන්තු මන්ත්‍රී සජින් ද වාස් ගුණවර්ධන මහතාට අයත් බව කියන ගුවන් සමාගම පරිහරණය කළ බව කියන භාණ්ඩ ප්‍රවාහන යානයක් මේ වනවිට කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළේ නවතා තිබේ.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt;

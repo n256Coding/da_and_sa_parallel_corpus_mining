@@ -1,0 +1,4 @@
+ජපානයේ යමගුචිහි පැවැත්වෙන ලෝක බාලදක්ෂ ජම්බෝරියට අද එරට කිරුළ හිමි කුමරු සහ අගමැතිවරයා සහභාගි විය.
+ජම්බෝරිය අද වෙන්ව තිබුණේ විවිධ රටවල් ඉදිරිපත් කළ ආහාර ප්‍රදර්ශනය සඳහා ය.
+// <!
+[CDATA[(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));// ]]&gt; බාලදක්ෂ ජම්බෝරියේදී සිංහල ක්‍රමයට සැකසූ රසකැවිලිවලට විදෙස් බාලදක්ෂයින්ගෙන් ඉහළ ප්‍රතිචාරයක් Posted by Newsfirst.lk on Sunday, August 2, 2015
