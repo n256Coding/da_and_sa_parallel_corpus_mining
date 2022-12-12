@@ -73,7 +73,7 @@ for site in site_list:
                     for file in files:
                         try:
                             sentences = read_file(daypath+'/'+file)
-                            embeddings = create_embeddings(encoder,sentences,lang)
+                            embeddings = create_embeddings(sentences)
                             embedding_path = embedding_dir_path+'/'+site+'/'+lang+'/'+year+'/'+month+'/'+day
                             #print(len(embeddings[0]))
 
