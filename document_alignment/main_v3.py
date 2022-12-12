@@ -9,6 +9,7 @@ import numpy as np
 import inputpaths
 import sys
 import pickle
+from sentence_transformers import SentenceTransformer
 
 # embeddingPathA = inputpaths.embeddingPathA
 # embeddingPathB = inputpaths.embeddingPathB
@@ -52,7 +53,7 @@ def main():
     dim = int(sys.argv[8])
     metric = sys.argv[9]
 
-    loaded_model = pickle.load(open(mlModelPath, 'rb'))
+    loaded_model = SentenceTransformer(mlModelPath)
     # print(embeddingPathA)
     # print(embeddingPathB)
     # print(datPathA)
