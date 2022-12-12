@@ -129,6 +129,10 @@ def getDocVec(doc, path, option, dim):
         docVec = np.fromfile(path + doc, dtype = np.float32, count = -1)
         docVec.resize(docVec.shape[0] // dim, dim)
         return docVec
+    else: # For distiled model
+        docVec = np.fromfile(path + doc, dtype = np.float32, count = -1)
+        docVec.resize(docVec.shape[0] // dim, dim)
+        return docVec
 
 def getDocFile(doc, path, datapath):
     fnames = doc.split(".")
