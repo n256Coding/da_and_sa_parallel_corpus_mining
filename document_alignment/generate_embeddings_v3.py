@@ -6,6 +6,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import os 
 import time
+import traceback
 
 startTime=time.time()
 
@@ -87,7 +88,9 @@ for site in site_list:
 
                             write_file(embeddings,embedding_path+'/'+file.replace('.txt','.raw'))
                         except:
+                            traceback.print_exc()
                             print('ERROR : {}/{}/{}/{}/{}/{}'.format(sitepath, lang, year, month, day, file))
+                            break
 
                 print('{}-{}-{}-{} completed'.format(encoder, lang, year, month))
 
