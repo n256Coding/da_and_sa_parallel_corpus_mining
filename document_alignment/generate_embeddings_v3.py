@@ -10,7 +10,8 @@ import traceback
 
 startTime=time.time()
 
-model_path = '/content/drive/MyDrive/Research Project/saved_models/output/make-multilingual--2022-10-29_10-49-58/'
+# model_path = '/content/drive/MyDrive/Research Project/saved_models/output/make-multilingual--2022-10-29_10-49-58/'
+model_path = '/content/drive/MyDrive/Research Project/saved_models/output/all-mpnet-base-v2-hiru-spider--2022-12-15_15-03-06/'
 
 def normalization(embeds):
   norms = np.linalg.norm(embeds, 2, axis=1, keepdims=True)
