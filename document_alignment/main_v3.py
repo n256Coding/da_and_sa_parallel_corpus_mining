@@ -53,7 +53,9 @@ def main():
     dim = int(sys.argv[8])
     metric = sys.argv[9]
 
-    loaded_model = SentenceTransformer(mlModelPath)
+    # loaded_model = SentenceTransformer(mlModelPath)
+    loaded_model = pickle.load(open(mlModelPath, 'rb'))
+
     # print(embeddingPathA)
     # print(embeddingPathB)
     # print(datPathA)
