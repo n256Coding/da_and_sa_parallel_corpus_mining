@@ -17,7 +17,7 @@ labse_preprocessor = hub.KerasLayer(
 labse_encoder = hub.KerasLayer("https://tfhub.dev/google/LaBSE/2")
 
 #Setup XLM-R
-#xlmr_embedder = SentenceTransformer('paraphrase-xlm-r-multilingual-v1') #XLMR 
+xlmr_embedder = SentenceTransformer('paraphrase-xlm-r-multilingual-v1') #XLMR 
 
 startTime=time.time()
 
@@ -32,8 +32,9 @@ def create_embeddings(encoder,sentences,lang):
   if encoder == "labse":
     processed_sentences = tf.constant(sentences)
     return labse_encoder(labse_preprocessor(processed_sentences))['default']
-  #if encoder == "xlmr":
-  #  return xlmr_embedder.encode(sentences)
+
+  if encoder == "xlmr":
+   return xlmr_embedder.encode(sentences)
 
 # Read files and return as an array
 def read_file(filepath):
@@ -49,7 +50,7 @@ def write_file(data,file_path):
 
 #create laser embeddings
 root = '/content/data'
-encoders = ["labse"] # use : 'laser','labse','xlmr'
+encoders = ["xlmr"] # use : 'laser','labse','xlmr'
 
 site_list = ['army', 'hiru', "newsfirst", 'itn'] 
 
