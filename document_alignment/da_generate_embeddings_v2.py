@@ -8,6 +8,8 @@ from sentence_transformers import SentenceTransformer
 import os 
 import time
 
+import sys
+
 # Setup laser
 #laser = Laser()
 
@@ -17,7 +19,8 @@ labse_preprocessor = hub.KerasLayer(
 labse_encoder = hub.KerasLayer("https://tfhub.dev/google/LaBSE/2")
 
 #Setup XLM-R
-xlmr_embedder = SentenceTransformer('paraphrase-xlm-r-multilingual-v1') #XLMR 
+# xlmr_embedder = SentenceTransformer('paraphrase-xlm-r-multilingual-v1') #XLMR 
+xlmr_embedder = SentenceTransformer(sys.argv[1]) if sys.argv[1] else SentenceTransformer('paraphrase-xlm-r-multilingual-v1')
 
 startTime=time.time()
 
