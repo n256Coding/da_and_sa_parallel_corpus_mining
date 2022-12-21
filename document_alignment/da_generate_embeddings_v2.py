@@ -38,6 +38,9 @@ def create_embeddings(encoder,sentences,lang):
 
   if encoder == "xlmr":
    return xlmr_embedder.encode(sentences)
+  
+  else:
+    return xlmr_embedder.encode(sentences)
 
 # Read files and return as an array
 def read_file(filepath):
@@ -53,7 +56,7 @@ def write_file(data,file_path):
 
 #create laser embeddings
 root = '/content/data'
-encoders = ["xlmr"] # use : 'laser','labse','xlmr'
+encoders = [str(sys.argv[2]) if sys.argv[2] else 'xlmr'] # use : 'laser','labse','xlmr'
 
 site_list = ['army', 'hiru', "newsfirst", 'itn'] 
 
