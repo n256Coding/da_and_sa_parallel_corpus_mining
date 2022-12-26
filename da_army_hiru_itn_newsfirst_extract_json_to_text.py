@@ -70,8 +70,7 @@ def get_content_itn(json_file_path, file):
         
         sents=[]
         if isinstance(news_data, str):
-            sentTkns=sent_tokenize(news_data)
-            sents=[]
+            sents=sent_tokenize(news_data)
             
         else:
             sents=extract_sentences(news_data)        
