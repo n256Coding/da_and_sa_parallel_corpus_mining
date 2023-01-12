@@ -13,6 +13,9 @@ def evaluateDatewise(filePath, results):
     alignedcounter = 0
     # print(len(alignedEng))
     # print(len(alignedSin))
+
+    print(f'results: {results}, alignedEng: {len(alignedEng)}, alignedSin: {len(alignedSin)}')
+    
     for result in results:
         if result["a"] in alignedEng:
             totcounter = totcounter + 1
